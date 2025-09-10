@@ -2422,6 +2422,7 @@
   {
     "fileName": "Button_PROD_OTA_V28_v1.00.28.ota",
     "fileVersion": 28,
+    "force": true,
     "fileSize": 128242,
     "url": "https://raw.githubusercontent.com/bittles/zigbee-OTA/master/images1/ThirdReality/Button_PROD_OTA_V28_v1.00.28.ota",
     "imageType": 54184,

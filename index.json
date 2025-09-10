@@ -8324,13 +8324,13 @@
     "otaHeaderString": "temp_humi_sensor"
   },
   {
-    "fileName": "Button_PROD_OTA_V47_v1.00.47.ota",
-    "fileVersion": 47,
-    "fileSize": 145986,
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ThirdReality/Button_PROD_OTA_V47_v1.00.47.ota",
+    "fileName": "Button_PROD_OTA_V28_v1.00.289.ota",
+    "fileVersion": 289,
+    "fileSize": 128242,
+    "url": "https://raw.githubusercontent.com/bittles/zigbee-OTA/master/images/ThirdReality/Button_PROD_OTA_V28_v1.00.289.ota",
     "imageType": 54184,
     "manufacturerCode": 4659,
-    "sha512": "006f67f5437a8b5b031a95109c5f94c938152b7b1b06973eabe05a821958fbf0dce681b015dea378fa0098be896603abbb025fca353bd84c3bd87cdf1c149b67",
+    "sha512": "1000494cb194337de4aeec9c2d5a37a25a3f20a61af10036e01225faa7434865801991495ddb26902e8b48301088dad067e1db5d1ffb395790bbf68c59bff6ac",
     "otaHeaderString": "Telink OTA Sample Usage"
   },
   {
